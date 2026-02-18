@@ -1,0 +1,24 @@
+{
+  "header": {
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "description": "Hovac's Skin",
+    "name": "Hovac Ind",
+    "uuid": "780d681a-3de4-4c60-94bd-6cecd6be6272"
+  },
+  "modules": [
+    {
+      "version": [
+        1,
+        0,
+        0
+      ],
+      "type": "skin_pack",
+      "uuid": "780d681a-3de4-4c60-94bd-6cecd6be6272"
+    }
+  ],
+  "format_version": 1
+}

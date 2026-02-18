@@ -1,0 +1,215 @@
+{
+    "skins": [
+        {
+            "localization_name": "skin1",
+            "geometry": "geometry.MashUpHalloween.ArrowheadCostume",
+            "texture": "skin.png",
+            "cape": "cape.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin2",
+            "geometry": "geometry.ChineseMythology.SouthernSymbolVermillionBird",
+            "texture": "skin1.png",
+            "cape": "skin1cape.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin3",
+            "geometry": "geometry.ChineseMythology.SouthernSymbolVermillionBird",
+            "texture": "skin2.png",
+            "cape": "skin2cape.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin4",
+            "geometry": "geometry.ChineseMythology.SouthernSymbolVermillionBird",
+            "texture": "skin3.png",
+            "cape": "skin3cape.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin5",
+            "geometry": "geometry.ChineseMythology.SouthernSymbolVermillionBird",
+            "texture": "skin4.png",
+            "cape": "skin4cape.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin6",
+            "geometry": "geometry.ChineseMythology.SouthernSymbolVermillionBird",
+            "texture": "skin5.png",
+            "cape": "skin5cape.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin7",
+            "geometry": "geometry.ChineseMythology.SouthernSymbolVermillionBird",
+            "texture": "skin6.png",
+            "cape": "skin6cape.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin8",
+            "geometry": "geometry.ChineseMythology.SouthernSymbolVermillionBird",
+            "texture": "skin7.png",
+            "cape": "skin7cape.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin9",
+            "geometry": "geometry.MashUpHalloween.ArrowheadCostume",
+            "texture": "skin8.png",
+            "cape": "skin8cape.png",
+            "animations": {
+             "move.arms": "animation.player.move.arms.zombie"
+             },
+            "type": "free"
+        },
+        {
+            "localization_name": "skin10",
+            "geometry": "geometry.MashUpHalloween.ArrowheadCostume",
+            "texture": "skin9.png",
+            "cape": "skin9cape.png",
+           "type": "free"
+        },
+        {
+            "localization_name": "skin11",
+            "geometry": "geometry.MashUpHalloween.ArrowheadCostume",
+            "texture": "skin10.png",
+            "cape": "skin10cape.png",
+            "type": "free"
+        },
+        {
+           "localization_name": "skin12",
+            "geometry": "geometry.MashUpHalloween.ArrowheadCostume",
+            "texture": "skin11.png",
+            "cape": "skin11cape.png",
+            "animations": {
+             "move.arms": "animation.player.move.arms.zombie"
+             },
+            "type": "free"
+        },
+        {
+           "localization_name": "skin13",
+            "geometry": "geometry.MashUpHalloween.ArrowheadCostume",
+            "texture": "skin12.png",
+            "cape": "skin12cape.png",
+            "type": "free" 
+        },
+        {
+            "localization_name": "skin14",
+            "geometry": "geometry.MashUpHalloween.ArrowheadCostume",
+            "texture": "skin13.png",
+            "cape": "cape13.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin15",
+            "geometry": "geometry.MashUpHalloween.ArrowheadCostume",
+            "texture": "skin14.png",
+            "cape": "cape14.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin16",
+            "geometry": "geometry.MashUpHalloween.ArrowheadCostume",
+            "texture": "skin15.png",
+            "cape": "cape15.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin17",
+            "geometry": "geometry.MashUpHalloween.ArrowheadCostume",
+            "texture": "skin16.png",
+            "cape": "cape16.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin18",
+            "geometry": "geometry.MashUpHalloween.ArrowheadCostume",
+            "texture": "skin17.png",
+            "cape": "cape17.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin19",
+            "geometry": "geometry.MashUpHalloween.ArrowheadCostume",
+            "texture": "skin18.png",
+            "cape": "cape18.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin20",
+            "geometry": "geometry.MashUpHalloween.ArrowheadCostume",
+            "texture": "skin19.png",
+            "cape": "cape19.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin21",
+            "geometry": "geometry.MashUpHalloween.ArrowheadCostume",
+            "texture": "skin20.png",
+            "cape": "cape20.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin22",
+            "geometry": "geometry.MashUpHalloween.ArrowheadCostume",
+            "texture": "skin21.png",
+            "cape": "cape21.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin23",
+            "geometry": "geometry.MashUpHalloween.ArrowheadCostume",
+            "texture": "skin22.png",
+            "cape": "cape22.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin24",
+            "geometry": "geometry.MashUpHalloween.ArrowheadCostume",
+            "texture": "skin23.png",
+            "cape": "cape23.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin25",
+            "geometry": "geometry.MashUpHalloween.ArrowheadCostume",
+            "texture": "skin24.png",
+            "cape": "cape24.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin26",
+            "geometry": "geometry.MashUpHalloween.ArrowheadCostume",
+            "texture": "skin25.png",
+            "cape": "cape25.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin27",
+            "geometry": "geometry.MashUpHalloween.ArrowheadCostume",
+            "texture": "skin26.png",
+            "cape": "cape26.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin28",
+            "geometry": "geometry.MashUpHalloween.ArrowheadCostume",
+            "texture": "skin27.png",
+            "cape": "cape27.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin29",
+            "geometry": "geometry.MashUpHalloween.ArrowheadCostume",
+            "texture": "skin28.png",
+            "cape": "cape28.png",
+            "type": "free"
+        }
+    ],
+    "serialize_name": "Hovac Ind",
+    "localization_name": "HI"
+}
