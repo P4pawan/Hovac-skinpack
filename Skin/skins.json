@@ -208,6 +208,13 @@
             "texture": "skin28.png",
             "cape": "cape28.png",
             "type": "free"
+        },
+        {
+            "localization_name": "skin30",
+            "geometry": "geometry.MashUpHalloween.ArrowheadCostume",
+            "texture": "skin29.png",
+            "cape": "skin29cape.png",
+            "type": "free"
         }
     ],
     "serialize_name": "Hovac Ind",
